@@ -1,4 +1,4 @@
-# copy-word
+# portrait-generate
 
 ## Project setup
 ```
